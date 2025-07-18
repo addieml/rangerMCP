@@ -1,7 +1,7 @@
 # rangerMCP
-# Shopify Slack MCP Server
+# Ranger MCP Server
 
-A Model Context Protocol (MCP) server that connects to public Shopify Slack channels to fetch messages, threads, and conversations. Designed to work with LibreChat and other agents for creating merchant feedback digests.
+A Model Context Protocol (MCP) server that connects to public Slack channels for Merchant Feedback on the Shop App to fetch messages, threads, and conversations. Designed to work with LibreChat and other agents (eg: Scout) for creating merchant feedback digests.
 
 ## Features
 
